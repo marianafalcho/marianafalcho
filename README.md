@@ -9,7 +9,7 @@ This repo was created to share different assests created while putting together 
 - ✅ Kubernetes
 - 📊 ArgoCD 
 - 💾 Python  
-- 🌗 Gitlan  
+- 🌗 Gitlab
 - 🔒 Terraform  
 
 ---
