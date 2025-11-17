@@ -6,10 +6,12 @@ This repo was created to share different assests created while putting together 
 
 ## ✨ Technologies
 
-- ✅ Kubernetes
-- 📊 ArgoCD 
-- 💾 Python  
-- 🌗 Gitlab
-- 🔒 Terraform  
+- ☁️ AWS
+- ☸️ Kubernetes
+- 🚀🚢 ArgoCD
+- 📊 Helm Charts
+- 🐍 Python  
+- 🦊 Gitlab
+- 🏗️ Terraform  
 
 ---
